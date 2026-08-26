@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+streamlit
+pandas
+numpy
+scikit-learn
+pydantic
+python-dotenv
+requests
+sqlalchemy
+plotly
+pytest
+httpx
+razorpay
+gtts
+
